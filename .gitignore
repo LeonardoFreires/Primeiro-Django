@@ -1,0 +1,13 @@
+# .gitignore é padão e pode ser replicado
+
+.vscode
+# Ambiente virtual não sobe
+myenv/
+# DLL files
+__pycache__
+# Pack da distribuição
+.Python
+# mypy
+.mypy_cache/
+db.sqlite3
+
